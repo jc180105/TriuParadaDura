@@ -1,0 +1,2 @@
+# TriuParadaDura
+Trabalho da sala
